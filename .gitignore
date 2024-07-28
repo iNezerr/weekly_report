@@ -1,0 +1,5 @@
+.env
+output/**
+raw/**
+keys/**
+__pycache__
